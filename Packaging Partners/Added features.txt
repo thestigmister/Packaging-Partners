@@ -1,0 +1,17 @@
+Junad Ahmed
+ACSF335
+Milestone 1; 14/02/2017
+Features added-
+Players:
+2 players main focus (Homer and Crash)
+1 other player for testing purposes (Dalek)
+All players controlled by keyboard
+Homer controlled with WASD; Dalek and Crash controlled with Arrow keys
+A and D move Homer left and right respectfully as does Left and Right keys for Crash and Dalek
+W and D shifts Homer 5 places up (+5 Y position) and down (-5 Y position) respectfully
+Space causes Crash and Dalek to jump; J causes Homer to jump
+Dalek and Homer collides with Pickup
+When Dalek and Homer collides with Pickup (Zeiton7) Zeiton7 count increments and displays "Zeiton crystal bonus: " and current bonus points orginating from 0 and incrementing by one per collision
+Packaging class package moves along the conveyer belt platform
+When it collides with a small invisible square at the end, it moves to the next platform and walks in the opposite direction. (Only currently applied to the first platform)
+
